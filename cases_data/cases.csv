@@ -1,0 +1,343 @@
+CITY/COMMUNITY**,Cases,Case Rate1,Deaths,Death Rate2
+City of Agoura Hills,89,426,1,5
+City of Alhambra,688,793,13,15
+City of Arcadia,251,435,12,21
+City of Artesia,178,1060,3,18
+City of Avalon,5,129,0,0
+City of Azusa,773,1545,9,18
+City of Baldwin Park,1526,1988,39,51
+City of Bell,894,2461,26,72
+City of Bell Gardens,1067,2477,13,30
+City of Bellflower,1351,1738,39,50
+City of Beverly Hills,472,1367,8,23
+City of Bradbury,7,655,0,0
+City of Burbank,795,742,50,47
+City of Calabasas,162,666,11,45
+City of Carson,971,1035,36,38
+City of Cerritos,348,695,7,14
+City of Claremont,192,526,3,8
+City of Commerce*,320,2449,2,15
+City of Compton,2201,2203,29,29
+City of Covina,736,1501,11,22
+City of Cudahy,655,2690,11,45
+City of Culver City,275,690,27,68
+City of Diamond Bar,311,541,4,7
+City of Downey,2516,2202,59,52
+City of Duarte,276,1254,23,104
+City of El Monte,2411,2056,74,63
+City of El Segundo,86,512,0,0
+City of Gardena,698,1138,34,55
+City of Glendale,1897,919,122,59
+City of Glendora,713,1351,23,44
+City of Hawaiian Gardens,288,1962,1,7
+City of Hawthorne,1076,1212,28,32
+City of Hermosa Beach,132,671,2,10
+City of Hidden Hills,5,265,0,0
+City of Huntington Park,1664,2797,29,49
+City of Industry,18,4119,2,458
+City of Inglewood,1526,1344,70,62
+City of Irwindale,39,2673,0,0
+City of La Canada Flintridge,101,488,6,29
+City of La Habra Heights,20,367,0,0
+City of La Mirada,506,1020,21,42
+City of La Puente,787,1934,6,15
+City of La Verne,221,664,3,9
+City of Lakewood,719,895,7,9
+City of Lancaster*,1630,1009,23,14
+City of Lawndale,356,1059,8,24
+City of Lomita,121,584,7,34
+City of Lynwood*,1940,2693,68,94
+City of Malibu,71,548,2,15
+City of Manhattan Beach,222,617,4,11
+City of Maywood,801,2856,23,82
+City of Monrovia,431,1111,31,80
+City of Montebello,1312,2038,32,50
+City of Monterey Park,492,790,12,19
+City of Norwalk,1857,1725,40,37
+City of Palmdale,1868,1175,26,16
+City of Palos Verdes Estates,62,459,2,15
+City of Paramount,1356,2420,15,27
+City of Pico Rivera,1435,2232,48,75
+City of Pomona,2535,1626,40,26
+City of Rancho Palos Verdes,193,451,12,28
+City of Redondo Beach,333,485,9,13
+City of Rolling Hills,4,206,0,0
+City of Rolling Hills Estates,30,370,2,25
+City of Rosemead,435,786,11,20
+City of San Dimas*,281,814,2,6
+City of San Fernando,437,1776,12,49
+City of San Gabriel,334,816,26,63
+City of San Marino,41,309,1,8
+City of Santa Clarita,1743,791,33,15
+City of Santa Fe Springs,300,1634,2,11
+City of Santa Monica,545,590,35,38
+City of Sierra Madre,45,410,3,27
+City of Signal Hill,148,1255,0,0
+City of South El Monte,430,2059,12,57
+City of South Gate,2633,2682,40,41
+City of South Pasadena,199,764,23,88
+City of Temple City,333,913,34,93
+City of Torrance,831,557,52,35
+City of Vernon,16,7656,0,0
+City of Walnut,158,517,1,3
+City of West Covina,1659,1533,21,19
+City of West Hollywood,368,996,4,11
+City of Westlake Village,14,167,0,0
+City of Whittier,1217,1392,14,16
+Los Angeles,61698,1525,1906,47
+Los Angeles - Adams-Normandie,139,1695,3,37
+Los Angeles - Alsace,219,1760,1,8
+Los Angeles - Angeles National Forest,2,5000,0,0
+Los Angeles - Angelino Heights,35,1399,1,40
+Los Angeles - Arleta,725,2109,12,35
+Los Angeles - Atwater Village,129,880,4,27
+Los Angeles - Baldwin Hills,364,1169,23,74
+Los Angeles - Bel Air,55,653,0,0
+Los Angeles - Beverly Crest,66,527,2,16
+Los Angeles - Beverlywood,95,721,0,0
+Los Angeles - Boyle Heights*,2538,2921,39,45
+Los Angeles - Brentwood,168,543,3,10
+Los Angeles - Brookside,1,172,0,0
+Los Angeles - Cadillac-Corning,69,969,1,14
+Los Angeles - Canoga Park,1012,1550,46,70
+Los Angeles - Carthay,154,1072,11,77
+Los Angeles - Central,1336,3426,25,64
+Los Angeles - Century City,79,618,0,0
+Los Angeles - Century Palms/Cove,892,2642,8,24
+Los Angeles - Chatsworth,384,1036,33,89
+Los Angeles - Cheviot Hills,45,491,2,22
+Los Angeles - Chinatown,60,748,1,12
+Los Angeles - Cloverdale/Cochran,191,1312,5,34
+Los Angeles - Country Club Park,199,1313,21,139
+Los Angeles - Crenshaw District,175,1265,2,14
+Los Angeles - Crestview,136,1196,17,150
+Los Angeles - Del Rey,201,671,7,23
+Los Angeles - Downtown*,459,1669,11,40
+Los Angeles - Eagle Rock,412,1041,16,40
+Los Angeles - East Hollywood,412,1407,41,140
+Los Angeles - Echo Park,114,800,3,21
+Los Angeles - El Sereno,648,1550,25,60
+Los Angeles - Elysian Park,52,910,0,0
+Los Angeles - Elysian Valley,153,1504,1,10
+Los Angeles - Encino,310,686,13,29
+Los Angeles - Exposition,49,1473,0,0
+Los Angeles - Exposition Park,739,1645,16,36
+Los Angeles - Faircrest Heights,21,583,1,28
+Los Angeles - Figueroa Park Square,175,2007,0,0
+Los Angeles - Florence-Firestone,1320,2782,19,40
+Los Angeles - Glassell Park,377,1193,9,28
+Los Angeles - Gramercy Place,141,1310,3,28
+Los Angeles - Granada Hills,683,1174,56,96
+Los Angeles - Green Meadows,519,2413,7,33
+Los Angeles - Hancock Park,154,904,2,12
+Los Angeles - Harbor City,299,1029,9,31
+Los Angeles - Harbor Gateway,491,1126,8,18
+Los Angeles - Harbor Pines,10,415,0,0
+Los Angeles - Harvard Heights,336,1863,19,105
+Los Angeles - Harvard Park,900,2372,11,29
+Los Angeles - Highland Park,633,1308,13,27
+Los Angeles - Historic Filipinotown,268,1932,8,58
+Los Angeles - Hollywood,692,1014,6,9
+Los Angeles - Hollywood Hills,184,625,6,20
+Los Angeles - Hyde Park,448,1570,8,28
+Los Angeles - Jefferson Park,160,1982,0,0
+Los Angeles - Koreatown,647,1252,21,41
+Los Angeles - Lafayette Square,49,1075,1,22
+Los Angeles - Lake Balboa,482,1142,12,28
+Los Angeles - Lakeview Terrace,347,2642,17,129
+Los Angeles - Leimert Park,179,1175,3,20
+Los Angeles - Lincoln Heights,680,2086,37,114
+Los Angeles - Little Armenia,282,3514,43,536
+Los Angeles - Little Bangladesh,297,1048,4,14
+Los Angeles - Little Tokyo,43,1372,2,64
+Los Angeles - Longwood,70,1626,0,0
+Los Angeles - Los Feliz,119,551,2,9
+Los Angeles - Manchester Square,80,937,1,12
+Los Angeles - Mandeville Canyon,8,256,0,0
+Los Angeles - Mar Vista,191,450,5,12
+Los Angeles - Marina Peninsula,22,505,0,0
+Los Angeles - Melrose,1168,1503,46,59
+Los Angeles - Mid-city,198,1317,20,133
+Los Angeles - Miracle Mile,100,556,5,28
+Los Angeles - Mission Hills,402,1666,15,62
+Los Angeles - Mt. Washington,269,1114,6,25
+Los Angeles - North Hills,980,1592,34,55
+Los Angeles - North Hollywood,1785,1179,41,27
+Los Angeles - Northridge,776,1112,37,53
+Los Angeles - Pacific Palisades,89,418,3,14
+Los Angeles - Pacoima,1743,2264,25,32
+Los Angeles - Palisades Highlands,15,390,0,0
+Los Angeles - Palms,362,825,26,59
+Los Angeles - Panorama City,1525,2027,66,88
+Los Angeles - Park La Brea,59,434,1,7
+Los Angeles - Pico-Union,1189,2842,73,174
+Los Angeles - Playa Del Rey,16,501,0,0
+Los Angeles - Playa Vista,76,694,0,0
+Los Angeles - Porter Ranch,190,534,6,17
+Los Angeles - Rancho Park,49,747,1,15
+Los Angeles - Regent Square,20,719,0,0
+Los Angeles - Reseda,1261,1646,55,72
+Los Angeles - Reseda Ranch,45,971,0,0
+Los Angeles - Reynier Village,26,615,0,0
+Los Angeles - San Pedro*,1394,1786,22,28
+Los Angeles - Shadow Hills,27,608,0,0
+Los Angeles - Sherman Oaks,556,637,14,16
+Los Angeles - Silverlake,401,910,14,32
+Los Angeles - South Carthay,69,651,1,9
+Los Angeles - South Park,1212,3193,18,47
+Los Angeles - St Elmo Village,85,1854,7,153
+Los Angeles - Studio City,157,700,9,40
+Los Angeles - Sun Valley,769,1465,13,25
+Los Angeles - Sunland,282,1382,24,118
+Los Angeles - Sycamore Square,3,464,0,0
+Los Angeles - Sylmar*,1778,2158,57,69
+Los Angeles - Tarzana,435,1409,30,97
+Los Angeles - Temple-Beaudry,743,1882,17,43
+Los Angeles - Thai Town,87,887,0,0
+Los Angeles - Toluca Lake,55,632,0,0
+Los Angeles - Toluca Terrace,14,1072,1,77
+Los Angeles - Toluca Woods,11,592,0,0
+Los Angeles - Tujunga,224,805,11,40
+Los Angeles - University Hills,34,992,1,29
+Los Angeles - University Park,478,1741,14,51
+Los Angeles - Valley Glen,305,1016,11,37
+Los Angeles - Valley Village,351,1420,22,89
+Los Angeles - Van Nuys,1552,1665,51,55
+Los Angeles - Venice,149,440,2,6
+Los Angeles - Vermont Knolls,457,2657,9,52
+Los Angeles - Vermont Square,208,2716,2,26
+Los Angeles - Vermont Vista,1086,2637,15,36
+Los Angeles - Vernon Central,1804,3469,26,50
+Los Angeles - Victoria Park,113,1345,2,24
+Los Angeles - View Heights,22,596,2,54
+Los Angeles - Watts,1047,2453,14,33
+Los Angeles - Wellington Square,67,1363,0,0
+Los Angeles - West Adams,546,1976,30,109
+Los Angeles - West Hills,293,723,26,64
+Los Angeles - West Los Angeles,313,832,10,27
+Los Angeles - West Vernon,1317,2455,30,56
+Los Angeles - Westchester,244,473,12,23
+Los Angeles - Westlake,1625,2738,111,187
+Los Angeles - Westwood,196,362,5,9
+Los Angeles - Wholesale District*,1722,4766,19,53
+Los Angeles - Wilmington,909,1609,8,14
+Los Angeles - Wilshire Center,636,1268,26,52
+Los Angeles - Winnetka,679,1311,10,19
+Los Angeles - Woodland Hills,472,694,21,31
+Unincorporated - Acton,37,464,2,25
+Unincorporated - Agua Dulce,15,361,0,0
+Unincorporated - Altadena,342,784,11,25
+Unincorporated - Anaverde,5,332,0,0
+Unincorporated - Angeles National Forest,3,241,0,0
+Unincorporated - Arcadia,54,677,0,0
+Unincorporated - Athens-Westmont,828,1951,13,31
+Unincorporated - Athens Village,115,2348,5,102
+Unincorporated - Avocado Heights,135,1993,1,15
+Unincorporated - Azusa,269,1689,2,13
+Unincorporated - Bassett,389,2625,7,47
+Unincorporated - Bouquet Canyon,1,93,1,93
+Unincorporated - Bradbury,4,3704,1,926
+Unincorporated - Canyon Country,61,789,0,0
+Unincorporated - Castaic*,1833,6741,2,7
+Unincorporated - Cerritos,4,681,0,0
+Unincorporated - Charter Oak,0,0,0,0
+Unincorporated - Claremont,3,427,0,0
+Unincorporated - Covina,232,1379,2,12
+Unincorporated - Covina (Charter Oak),174,1324,0,0
+Unincorporated - Del Aire,36,819,1,23
+Unincorporated - Del Rey,1,314,0,0
+Unincorporated - Del Sur,3,124,1,41
+Unincorporated - Desert View Highlands,12,481,1,40
+Unincorporated - Duarte,66,1491,1,23
+Unincorporated - East Covina,2,608,0,0
+Unincorporated - East La Mirada,63,1190,0,0
+Unincorporated - East Lancaster,0,0,0,0
+Unincorporated - East Los Angeles,3568,2848,68,54
+Unincorporated - East Pasadena,21,328,1,16
+Unincorporated - East Rancho Dominguez,330,2156,6,39
+Unincorporated - East Whittier,49,923,0,0
+Unincorporated - El Camino Village,93,1058,2,23
+Unincorporated - El Monte,4,2759,0,0
+Unincorporated - Elizabeth Lake,5,301,0,0
+Unincorporated - Florence-Firestone,1936,2992,28,43
+Unincorporated - Franklin Canyon,0,0,0,0
+Unincorporated - Glendora,4,606,0,0
+Unincorporated - Hacienda Heights,588,1051,4,7
+Unincorporated - Harbor Gateway,0,0,0,0
+Unincorporated - Hawthorne,29,1154,0,0
+Unincorporated - Hi Vista,1,91,0,0
+Unincorporated - Kagel/Lopez Canyons,13,921,1,71
+Unincorporated - La Crescenta-Montrose,83,419,1,5
+Unincorporated - La Habra Heights,0,0,0,0
+Unincorporated - La Rambla,69,3325,8,386
+Unincorporated - La Verne*,16,784,0,0
+Unincorporated - Ladera Heights,46,651,1,14
+Unincorporated - Lake Hughes,1,150,0,0
+Unincorporated - Lake Los Angeles,96,739,2,15
+Unincorporated - Lake Manor,13,791,0,0
+Unincorporated - Lakewood,0,0,0,0
+Unincorporated - Lennox,347,1539,3,13
+Unincorporated - Leona Valley,14,800,0,0
+Unincorporated - Littlerock,40,995,0,0
+Unincorporated - Littlerock/Juniper Hills,4,308,0,0
+Unincorporated - Littlerock/Pearblossom,44,1233,0,0
+Unincorporated - Llano,2,228,0,0
+Unincorporated - Marina del Rey,43,457,1,11
+Unincorporated - Miracle Mile,0,0,0,0
+Unincorporated - Monrovia,51,1314,0,0
+Unincorporated - Newhall,4,1818,0,0
+Unincorporated - North Lancaster,8,668,0,0
+Unincorporated - North Whittier,107,1280,2,24
+Unincorporated - Northeast San Gabriel,181,753,5,21
+Unincorporated - Padua Hills,1,465,0,0
+Unincorporated - Palmdale,13,1544,0,0
+Unincorporated - Palos Verdes Peninsula,1,161,0,0
+Unincorporated - Pearblossom/Llano,12,613,1,51
+Unincorporated - Pellissier Village,13,2100,0,0
+Unincorporated - Placerita Canyon,0,0,0,0
+Unincorporated - Pomona,8,413,1,52
+Unincorporated - Quartz Hill,96,744,10,77
+Unincorporated - Rancho Dominguez,47,1766,1,38
+Unincorporated - Roosevelt,3,322,0,0
+Unincorporated - Rosewood,14,1089,0,0
+Unincorporated - Rosewood/East Gardena,11,922,0,0
+Unincorporated - Rosewood/West Rancho Dominguez,53,1577,0,0
+Unincorporated - Rowland Heights,380,745,7,14
+Unincorporated - San Clemente Island,0,0,0,0
+Unincorporated - San Francisquito Canyon/Bouquet Canyon,0,0,0,0
+Unincorporated - San Jose Hills,355,1756,5,25
+Unincorporated - San Pasqual,6,295,0,0
+Unincorporated - Sand Canyon,2,649,0,0
+Unincorporated - Santa Catalina Island,6,2247,0,0
+Unincorporated - Santa Monica Mountains*,69,371,1,5
+Unincorporated - Saugus,11,7097,0,0
+Unincorporated - Saugus/Canyon Country,1,281,0,0
+Unincorporated - South Antelope Valley,1,220,0,0
+Unincorporated - South El Monte,37,2061,0,0
+Unincorporated - South San Gabriel,111,1255,5,57
+Unincorporated - South Whittier,938,1584,12,20
+Unincorporated - Southeast Antelope Valley,8,1024,0,0
+Unincorporated - Stevenson Ranch,90,429,0,0
+Unincorporated - Sun Village,78,1292,0,0
+Unincorporated - Sunrise Village,24,1852,0,0
+Unincorporated - Twin Lakes/Oat Mountain,9,543,1,60
+Unincorporated - Val Verde,36,1088,1,30
+Unincorporated - Valencia,28,911,1,33
+Unincorporated - Valinda,417,1784,3,13
+Unincorporated - View Park/Windsor Hills,94,808,2,17
+Unincorporated - Walnut Park,433,2682,5,31
+Unincorporated - West Antelope Valley,3,199,0,0
+Unincorporated - West Carson,220,996,11,50
+Unincorporated - West Chatsworth,0,0,0,0
+Unincorporated - West LA,29,3046,2,210
+Unincorporated - West Puente Valley,231,2349,0,0
+Unincorporated - West Rancho Dominguez,17,1251,2,147
+Unincorporated - West Whittier/Los Nietos,532,1976,8,30
+Unincorporated - Westfield/Academy Hills,3,231,0,0
+Unincorporated - Westhills,7,834,0,0
+Unincorporated - White Fence Farms,25,679,0,0
+Unincorporated - Whittier,47,1242,0,0
+Unincorporated - Whittier Narrows,0,0,0,0
+Unincorporated - Willowbrook,837,2397,12,34
+Unincorporated - Wiseburn,71,1178,0,0
+-  Under Investigation,3946,,17,
