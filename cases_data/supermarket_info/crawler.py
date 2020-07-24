@@ -1,9 +1,9 @@
 from urllib.request import urlopen, Request
 import csv
 from bs4 import BeautifulSoup
-from geopy.geocoders import Nominatim
-import sys
-geolocator = Nominatim(user_agent="hacktheworld")
+import geopy
+geopy.geocoders.options.default_timeout = 10000
+geolocator = geopy.geocoders.Nominatim(user_agent="hacktheworld")
 
 headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) ' 
                       'AppleWebKit/537.11 (KHTML, like Gecko) '
@@ -25,7 +25,7 @@ soup = BeautifulSoup(response, features="lxml")
 table = soup.table
 table_row = table.find_all("tr")
 
-with open("/Users/phillipmiao/WorkSpaces/Hack-the-World/cases_data/supermarket_info/supermarket.csv", 'w') as f:
+with open("/Users/phillipmiao/WorkSpaces/Hack-the-World/cases_data/supermarket_info/supermarket_lat_lon.csv", 'w') as f:
     csvwriter = csv.writer(f)
     urls = []
     for row in table_row:
@@ -39,7 +39,7 @@ with open("/Users/phillipmiao/WorkSpaces/Hack-the-World/cases_data/supermarket_i
         
         # csvwriter.writerow(data)
     
-    csvwriter.writerow(["Name", "Address", "Zip Code", "Phone #"])
+    csvwriter.writerow(["Name", "Address", "Lat", "Lon", "Phone #"])
     null_counter = 0
     for url in urls:
         req = Request(url=url['url'], headers=headers) 
@@ -60,13 +60,14 @@ with open("/Users/phillipmiao/WorkSpaces/Hack-the-World/cases_data/supermarket_i
                 else:
                     continue
             found = True
-            address = cols[1].text[1:-2]
-            location = geolocator.geocode(address + " " + cols[3].text)
+            address = cols[1].text[1:-2] + ", CA " + cols[3].text
+            location = geolocator.geocode(address)
             if location is None:
                 null_counter += 1
                 print(f"*** skipped {null_counter}")
                 continue
-            csvwriter.writerow([url['name'], address, location.latitude, location.longitude, cols[3].text, cols[4].text])
+            location.latitude, location.longitude, 
+            csvwriter.writerow([url['name'], address, location.latitude, location.longitude, cols[4].text])
 
             count += 1
             print(f"    done {count} out of {len(table_row) - 1}")
