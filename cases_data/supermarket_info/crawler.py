@@ -1,6 +1,9 @@
 from urllib.request import urlopen, Request
 import csv
 from bs4 import BeautifulSoup
+from geopy.geocoders import Nominatim
+import sys
+geolocator = Nominatim(user_agent="hacktheworld")
 
 headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) ' 
                       'AppleWebKit/537.11 (KHTML, like Gecko) '
@@ -22,7 +25,7 @@ soup = BeautifulSoup(response, features="lxml")
 table = soup.table
 table_row = table.find_all("tr")
 
-with open("./supermarket_info/supermarket.csv", 'w') as f:
+with open("/Users/phillipmiao/WorkSpaces/Hack-the-World/cases_data/supermarket_info/supermarket.csv", 'w') as f:
     csvwriter = csv.writer(f)
     urls = []
     for row in table_row:
@@ -37,6 +40,7 @@ with open("./supermarket_info/supermarket.csv", 'w') as f:
         # csvwriter.writerow(data)
     
     csvwriter.writerow(["Name", "Address", "Zip Code", "Phone #"])
+    null_counter = 0
     for url in urls:
         req = Request(url=url['url'], headers=headers) 
         response = urlopen(req).read()
@@ -56,11 +60,16 @@ with open("./supermarket_info/supermarket.csv", 'w') as f:
                 else:
                     continue
             found = True
-            data.append(url['name'])
-            data.append(cols[1].text)
-            data.append(cols[3].text)
-            data.append(cols[4].text)
-            csvwriter.writerow(data)
+            address = cols[1].text[1:-2]
+            location = geolocator.geocode(address + " " + cols[3].text)
+            if location is None:
+                null_counter += 1
+                print(f"*** skipped {null_counter}")
+                continue
+            csvwriter.writerow([url['name'], address, location.latitude, location.longitude, cols[3].text, cols[4].text])
+
             count += 1
-            print(f"done {count} out of {len(table_row) - 1}")
+            print(f"    done {count} out of {len(table_row) - 1}")
+            
+
     
